@@ -44,7 +44,6 @@ In order to run this project you need:
 
 ```sh
  Visual Studio Code
- git bash
  Ruby
 ```
 
