@@ -23,8 +23,6 @@
 # 📖 [Decode Morse Message] <a name="about-project"></a>
 
 > In this project we write a function using ruby to decode morse mssage
-=
-
 
 **[your_project__name]** Morse Message Decoder
 
