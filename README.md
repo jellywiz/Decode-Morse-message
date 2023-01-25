@@ -15,20 +15,43 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 Morse code <a name="about-project"></a>
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Decode Morse Message] <a name="about-project"></a>
+
+> In this project we write a function using ruby to decode morse mssage
+
+**[your_project__name]** Morse Message Decoder
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- [Ruby](https://www.ruby-lang.org/en/)
-- [Rubocop](https://docs.rubocop.org/rubocop/1.39/index.html)
+<details>
+<summary>Ruby</summary>
+  <ul>
+    <li><a href="">Ruby</a></li>
+  </ul>
+</details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **[Decode message]**
+- **[Decod Word]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -36,54 +59,50 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
+> Describe how a new developer could make use of your project.
+
+
+
+- take a look to the hashmap
+- deode whatever message you want by calling `decode()`
 
 ### Prerequisites
 
 In order to run this project you need:
-
-```sh
- Visual Studio Code
- Ruby
-```
+- vscode
+- ruby
+- rubocop
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-```sh
-  cd my-folder
-  git clone https://github.com/jellywiz/Decode-Morse-message.git
-```
-
-### Install
-
-Install this project with:
-
-```sh
-  cd Decode-Mourse-message
-  bundle install
-```
+Clone this repository to your desired folder.
 
 ### Usage
 
-To run the project, execute the following commands:
+- you can run the code with `ruby filename.rb`
 
-```sh
-  ruby decode_morse.rb
-```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="authors"></a>
 
-👤 **Muzaffer Dler Rashad**
-
-- GitHub: [@JellyWiz](https://github.com/jellywiz)
+## Authors
 
 👤 **Yousef Hesham**
 
 - GitHub: [@yosefHesham](https://github.com/yosefHesham)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/yousef-hesham98)
+
+
+
+👤 **Muzzafer**
+
+- GitHub: [@jellywiz](https://github.com/jellywiz)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,7 +120,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please give it a ⭐️!
+> Write a message to encourage readers to support your project
+
+If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,9 +130,25 @@ If you like this project please give it a ⭐️!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Microverse](www.microverse.org) team.
+> Give credit to everyone who inspired your codebase.
 
-- Special Thanks to everyone who will get time to check this code and suggest any [issues](https://github.com/MarcoAurelioAntonio/Morse-code-thesamesh/issues)
+I would like to thank...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,5 +157,7 @@ I would like to thank [Microverse](www.microverse.org) team.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
